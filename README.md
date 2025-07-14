@@ -76,9 +76,3 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (or 
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
-
-## 📄 Credits
-
-- UI inspired by modern health apps
-- Built by [Shreya Srivastava](https://github.com/chiyaw)
