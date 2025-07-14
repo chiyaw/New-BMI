@@ -34,7 +34,7 @@ A beautiful, modern Body Mass Index (BMI) calculator built with **React**, **Vit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/new-bmi.git
+git clone https://github.com/chiyaw/new-bmi.git
 cd new-bmi
 ```
 
@@ -81,4 +81,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 Credits
 
 - UI inspired by modern health apps
-- Built by [Shreya Srivastava](https://github.com/chiyaws)
+- Built by [Shreya Srivastava](https://github.com/chiyaw)
