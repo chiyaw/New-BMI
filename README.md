@@ -1,12 +1,84 @@
-# React + Vite
+# 🧮 BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, modern Body Mass Index (BMI) calculator built with **React**, **Vite**, and **Tailwind CSS**. Instantly check your BMI and get health feedback in a delightful UI!
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-green?style=for-the-badge&logo=vercel)](https://new-bmi-alpha.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 **Modern, responsive design**
+- ⚡ **Instant BMI calculation**
+- 🟢 **Health feedback** (underweight, healthy, overweight, obese)
+- 🌈 **Animated gradients & smooth UI**
+- 🔄 **Reset with one click**
+- 🛠️ Built with React, Vite, and Tailwind CSS
+
+---
+
+## 📸 Screenshot
+
+![Screenshot of BMI Calculator](ssimg.png)
+
+---
+
+## 🚀 Live Demo
+
+👉 [Try it now!](https://new-bmi-alpha.vercel.app/)
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/new-bmi.git
+cd new-bmi
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+The app will be available at [http://localhost:5173](http://localhost:5173) (or as indicated in your terminal).
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- [React](https://react.dev/) 19+
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 🤔 How It Works
+
+1. **Enter your weight** (in pounds)
+2. **Enter your height** (in inches)
+3. Click **Calculate**
+4. Instantly see your BMI and a health message
+5. Use **Reset** to clear the form
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📄 Credits
+
+- UI inspired by modern health apps
+- Built by [Shreya Srivastava](https://github.com/chiyaws)
